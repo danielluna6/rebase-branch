@@ -1,0 +1,30 @@
+[33mcommit 15d13c1ca5ca198e580be34f07e95362628250da[m
+Author: Daniel Rodrigues <danieluna6@gmail.com>
+Date:   Thu Aug 10 15:49:20 2017 -0300
+
+    Add buzz
+
+[33mcommit 3d89be06da39db774bc74b1530ceede641cd1a6a[m
+Merge: f488f86 a6b2bf9
+Author: Daniel Rodrigues <danieluna6@gmail.com>
+Date:   Thu Aug 10 15:45:08 2017 -0300
+
+    Merge branch 'test'
+
+[33mcommit f488f86244c43ba2a114405991478b3d02a19aa8[m
+Author: Daniel Rodrigues <danieluna6@gmail.com>
+Date:   Thu Aug 10 15:40:28 2017 -0300
+
+    Add fizz
+
+[33mcommit a6b2bf967b34a1c9493fd505317963b55026a9df[m
+Author: Daniel Rodrigues <danieluna6@gmail.com>
+Date:   Thu Aug 10 15:23:53 2017 -0300
+
+    Add bar
+
+[33mcommit d6cd838e96f04f61e620e31671bd605301159e8e[m
+Author: Daniel Rodrigues <danieluna6@gmail.com>
+Date:   Thu Aug 10 15:23:07 2017 -0300
+
+    Add foo
